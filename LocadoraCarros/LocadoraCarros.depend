@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1623960552 source:c:\users\danie\documents\codeblocks\locadoracarros\src\locadoracarros.cpp
+	"locadoraCarros.h"
+	<stdio.h>
+	<String.h>
+	<inttypes.h>
+
+1623815012 c:\users\danie\documents\codeblocks\locadoracarros\include\locadoracarros.h
+
+1625364294 source:c:\users\danie\desktop\rpiii\grupo-3\entrega 1\locadoracarros\src\locadoracarros.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<inttypes.h>
+
+1625016963 source:c:\users\danie\desktop\grupo-3\entrega 1\locadoracarros\src\locadoracarros.cpp
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<inttypes.h>
+
